@@ -1,0 +1,28 @@
+{
+    "contexte_professionnel": "",
+    "profil_psychographique": "", 
+    "comportement_en_ligne": "",
+    "defis_et_douleurs": "",
+    "objectifs_et_besoins": "",
+    "criteres_de_decision": "",
+    "comportements_d_achat": "",
+    "scenarios_d_utilisation": "",
+    "canaux_de_communication_preferes": "",
+    "influences": "",
+    "valeurs_et_interets": "",
+    "motivations_cachees": "",
+    "messages_marketing_personnalises": [
+      {
+        "type": "Accroche",
+        "message": ""
+      },
+      {
+        "type": "Communication", 
+        "message": ""
+      },
+      {
+        "type": "Punchline",
+        "message": ""
+      }
+    ]
+  }

@@ -1,0 +1,126 @@
+{
+    "identification_de_base": {
+      "nom_du_persona": "",
+      "type_d_entreprise": "",
+      "secteur_d_activite": "",
+      "taille_de_l_entreprise": "",
+      "archettype": "",
+      "segment_de_marche": "",
+      "cycle_de_vie_de_l_entreprise": "",
+      "regime_juridique": "",
+      "chaine_de_valeur": "",
+      "interdependances_sectorielles": ""
+    },
+    "donnees_demographiques": {
+      "age": "",
+      "genre": "",
+      "niveau_d_education": "",
+      "situation_familiale": "",
+      "localisation": "",
+      "culture_d_entreprise": "",
+      "echelle_de_revenus": "",
+      "origines_ethniques_et_culturelles": "",
+      "mobilite_geographique": ""
+    },
+    "comportements_professionnels": {
+      "role_dans_l_entreprise": "",
+      "anciennete_dans_le_poste": "",
+      "competences_cles": "",
+      "outils_utilises": "",
+      "habitudes_de_travail": "",
+      "responsabilites_cles": "",
+      "reseau_professionnel": "",
+      "evolution_de_carriere_prevue": "",
+      "attitude_vis_a_vis_de_l_innovation": "",
+      "attitude_face_au_teletravail_et_a_la_digitalisation": ""
+    },
+    "objectifs_et_defis": {
+      "objectifs_professionnels": "",
+      "defis_et_douleurs": "",
+      "aspirations_a_long_terme": "",
+      "strategies_pour_surmonter_les_defis": "",
+      "priorites_strategiques": "",
+      "barrieres_internes": "",
+      "plans_de_developpement_personnel_et_professionnel": ""
+    },
+    "preferences_et_habitudes": {
+      "canaux_de_communication_preferes": "",
+      "comportement_d_achat": "",
+      "influences": "",
+      "sources_d_information": "",
+      "attitudes_face_au_changement": "",
+      "preferences_de_contenu": "",
+      "heures_de_consultation": "",
+      "canaux_d_achat_preferes": "",
+      "frequence_d_achat": ""
+    },
+    "psychographie": {
+      "personnalite": "",
+      "valeurs": "",
+      "interets": "",
+      "style_de_communication": "",
+      "motivations_cachees": "",
+      "traits_de_leadership": "",
+      "style_de_vie": "",
+      "croyances_et_ideologies": ""
+    },
+    "zones_de_chalandise": {
+      "marche_principal": "",
+      "zones_geographiques_specifiques": "",
+      "dynamique_du_marche_local": "",
+      "impact_economique_local": "",
+      "echelle_de_zone_de_chalandise": "",
+      "preferences_de_localisation": "",
+      "sensibilite_aux_facteurs_locaux": ""
+    },
+    "scenarios_d_usage": {
+      "scenarios_typiques": "",
+      "points_de_contact": "",
+      "journee_type": "",
+      "experiences_marquantes": "",
+      "interactions_frequentes": "",
+      "influenceurs_de_decision": "",
+      "cycles_de_vie_du_produit": ""
+    },
+    "besoins_en_information_et_decision": {
+      "information_necessaire": "",
+      "processus_de_decision": "",
+      "criteres_de_priorite": "",
+      "style_de_prise_de_decision": "",
+      "sources_de_veille": "",
+      "niveau_de_risque_acceptable": "",
+      "dependance_a_l_expertise_externe": ""
+    },
+    "technologies_et_innovation": {
+      "adoption_technologique": "",
+      "attitudes_envers_l_ia_et_l_automatisation": "",
+      "niveau_d_engagement_envers_la_durabilite_et_l_ecologie": "",
+      "ouverture_a_l_experimentation": "",
+      "compatibilite_avec_les_technologies_existantes": "",
+      "perspective_sur_la_protection_de_la_vie_privee_et_la_securite_des_donnees": "",
+      "receptivite_aux_innovations_de_rupture": ""
+    },
+    "canaux_de_communication_et_marketing": {
+      "preferences_mediatiques": "",
+      "engagement_avec_le_contenu_de_marque": "",
+      "influenceurs_et_leaders_d_opinion": ""
+    },
+    "aspects_ethiques_et_ecologiques": {
+      "preoccupations_environnementales": "",
+      "ethique_des_affaires": ""
+    },
+    "messages_marketing_personnalises": [
+      {
+        "type": "Accroche",
+        "message": ""
+      },
+      {
+        "type": "Communication",
+        "message": ""
+      },
+      {
+        "type": "Punchline",
+        "message": ""
+      }
+    ]
+  }

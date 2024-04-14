@@ -1,0 +1,84 @@
+{
+    "identification_de_base": {
+      "nom_du_persona": "",
+      "type_d_entreprise": "",
+      "secteur_d_activite": "",
+      "taille_de_l_entreprise": "",
+      "archettype": ""
+    },
+    "donnees_demographiques": {
+      "age": "",
+      "genre": "",
+      "niveau_d_education": "",
+      "situation_familiale": "",
+      "localisation": "",
+      "culture_d_entreprise": ""
+    },
+    "comportements_professionnels": {
+      "role_dans_l_entreprise": "",
+      "anciennete_dans_le_poste": "",
+      "competences_cles": "",
+      "outils_utilises": "",
+      "habitudes_de_travail": "",
+      "responsabilites_cles": "",
+      "reseau_professionnel": ""
+    },
+    "objectifs_et_defis": {
+      "objectifs_professionnels": "",
+      "defis_et_douleurs": "",
+      "aspirations_a_long_terme": "",
+      "strategies_pour_surmonter_les_defis": ""
+    },
+    "preferences_et_habitudes": {
+      "canaux_de_communication_preferes": "",
+      "comportement_d_achat": "",
+      "influences": "",
+      "sources_d_information": "",
+      "attitudes_face_au_changement": ""
+    },
+    "psychographie": {
+      "personnalite": "",
+      "valeurs": "",
+      "interets": "",
+      "style_de_communication": "",
+      "motivations_cachees": ""
+    },
+    "zones_de_chalandise": {
+      "marche_principal": "",
+      "zones_geographiques_specifiques": "",
+      "dynamique_du_marche_local": "",
+      "impact_economique_local": ""
+    },
+    "scenarios_d_usage": {
+      "scenarios_typiques": "",
+      "points_de_contact": "",
+      "journee_type": "",
+      "experiences_marquantes": ""
+    },
+    "besoins_en_information_et_decision": {
+      "information_necessaire": "",
+      "processus_de_decision": "",
+      "criteres_de_priorite": "",
+      "style_de_prise_de_decision": ""
+    },
+    "technologies_et_innovation": {
+      "adoption_technologique": "",
+      "attitudes_envers_l_ia_et_l_automatisation": "",
+      "niveau_d_engagement_envers_la_durabilite_et_l_ecologie": "",
+      "ouverture_a_l_experimentation": ""
+    },
+    "messages_marketing_personnalises": [
+      {
+        "type": "Accroche",
+        "message": ""
+      },
+      {
+        "type": "Communication",
+        "message": ""
+      },
+      {
+        "type": "Punchline",
+        "message": ""
+      }
+    ]
+  }
